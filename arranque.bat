@@ -1,0 +1,1 @@
+wget --no-check-certificate https://10.8.0.253/archivos/sam/index.php/directorios/descargar/68 -O inicio_red.bat
